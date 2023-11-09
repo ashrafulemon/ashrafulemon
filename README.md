@@ -35,8 +35,6 @@ Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 
 
 
-
-
  <br>
 <div align="center">
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/color/48/null/numpy.png"/> <img src="https://img.icons8.com/color/48/null/pandas.png"/> <img src="https://img.icons8.com/color/48/null/selenium-test-automation.png"/>
@@ -53,6 +51,14 @@ Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrafulemon&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafulemon&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulemon&theme=github_dark&utcOffset=8">
-	
 </p>
+
+
+<be>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulemon&" alt="ashrafulemon" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulemon&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulemon" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafulemon" alt="ashrafulemon" /></a> </p>
+
+ 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,03,23&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
