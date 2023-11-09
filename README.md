@@ -41,3 +41,27 @@ Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/ashrafulemon)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/ashrafulemon)  
+
+
+
+
+
+ <br>
+<div align="center">
+<img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/color/48/null/numpy.png"/> <img src="https://img.icons8.com/color/48/null/pandas.png"/> <img src="https://img.icons8.com/color/48/null/selenium-test-automation.png"/>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </a> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> <img src="https://img.icons8.com/color/48/null/power-bi.png"/><img src="https://img.icons8.com/color/48/null/ms-excel.png"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets.png" alt="google-sheets"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/>
+</div>
+<br>
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafulemon&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafulemon&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrafulemon&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafulemon&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulemon&theme=github_dark&utcOffset=8">
+	
+</p>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,03,23&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
