@@ -13,12 +13,15 @@
 <img src="https://i.postimg.cc/XJGkZP6s/Analytics-amp-Data-Science.gif" width="350px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulemon&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulemon" /> </p>
-<br>
+<p align="left"> <a href="https://twitter.com/Ashraful__Emon" target="blank"><img src="https://img.shields.io/twitter/follow/Ashraful__Emon?logo=twitter&style=for-the-badge" alt="Ashraful__Emon" /></a> </p>
+<be>
 
-
-He is studying Statistics at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh. From the last year, he has found himself learning skills for the data science industry. He listens to songs and plays online games. 
+## 🚀 About Me
+I'm studying Statistics at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh. From the last year, I found myself learning skills for the data science industry. I listen to songs and play online games. 
 - Based in Brahmanbaria, Bangladesh
+<be>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulemon&layout=compact)
 
 Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 
