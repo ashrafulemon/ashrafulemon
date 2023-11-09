@@ -1,8 +1,20 @@
 ![](https://media.licdn.com/dms/image/C5616AQGxPR1E5hsGKQ/profile-displaybackgroundimage-shrink_350_1400/0/1632581344500?e=1704931200&v=beta&t=ZlrMlFLzfe97Hr-j6w_1rIkLK1TA-gvD1pBgvayyiQw)
 
-# Hi there!
 
-Ashraful Islam Emon is passionate about making data-driven decisions by analyzing large datasets and uncovering valuable insights from them to help business growth currently started working on Upwork as a freelance data analyst.
+<h1 align="center"> I'm Ashraful Islam Emon</h1>
+<h3 align="center">Passionate about making data-driven decisions</h3>
+<h4 align = "center">By Analyzing large datasets and uncovering valuable insights from them to help business growth currently started working on Upwork as a freelance data analyst. </h4>
+<!-- <div align="center">
+
+</div> -->
+<be>
+
+
+<img src="https://i.postimg.cc/XJGkZP6s/Analytics-amp-Data-Science.gif" width="350px" align="right">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulemon&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulemon" /> </p>
+<br>
+
 
 He is studying Statistics at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh. From the last year, he has found himself learning skills for the data science industry. He listens to songs and plays online games. 
 - Based in Brahmanbaria, Bangladesh
