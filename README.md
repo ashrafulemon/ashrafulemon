@@ -23,11 +23,16 @@
 I'm studying Statistics at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh. From the last year, I found myself learning skills for the data science industry. I listen to songs and play online games. 
 - Based in Brahmanbaria, Bangladesh
 <be>
+<div align="center">
+ 
 Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 
-- 🌱 I’m currently learning Tableau 
-- 📫 How to reach me: emon118.bd@gmail.com
-
+  🌱 I’m currently learning Tableau 
+  
+  📫 How to reach me:
+  
+  emon118.bd@gmail.com
+</div>
 
 <div align="center">
 
@@ -69,9 +74,11 @@ Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 
 
 <br>
-
+<div align="center">
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulemon&" alt="ashrafulemon" /></p>
 
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafulemon" alt="ashrafulemon" /></a> </p>
 
  
