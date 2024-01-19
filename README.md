@@ -1,6 +1,6 @@
 <div align="center">
  
-![](https://media.licdn.com/dms/image/C5616AQGxPR1E5hsGKQ/profile-displaybackgroundimage-shrink_350_1400/0/1632581344500?e=1704931200&v=beta&t=ZlrMlFLzfe97Hr-j6w_1rIkLK1TA-gvD1pBgvayyiQw)
+![][(https://media.licdn.com/dms/image/D5616AQFXhyBepQz3RA/profile-displaybackgroundimage-shrink_350_1400/0/1705686569660?e=1710979200&v=beta&t=j_0DgqqWpP7oC7X7j2iALhhJYcDh2xajINnQAtZhP8M)]
 
 </div>
 
