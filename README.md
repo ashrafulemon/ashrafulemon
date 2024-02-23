@@ -16,11 +16,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulemon&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulemon" /> </p>
 <p align="left"> <a href="https://twitter.com/Ashraful__Emon" target="blank"><img src="https://img.shields.io/twitter/follow/Ashraful__Emon?logo=twitter&style=for-the-badge" alt="Ashraful__Emon" /></a> </p>
 <be>
-<p align="left"> <a href="https://www.upwork.com/freelancers/~015518cd259be31f8a" target="blank"><img src="https://img.shields.io/upwork/follow/Ashraful Islam Emon?logo=upwork&style=for-the-badge" alt="Ashraful Islam Emon" /></a> </p>
+<p align="left"> <a href="https://www.upwork.com/freelancers/~015518cd259be31f8a" target="blank"><img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/606710a582de651f75b268f4_Upwork.svg" alt="Ashraful Islam Emon" /></a> </p>
 <be>
-<be>
-<p align="left"> <a href="https://www.upwork.com/freelancers/~015518cd259be31f8a" target="blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" alt="Ashraful Islam Emon" /></a> </p>
-<be>
+
 
 ## 🚀 About Me
 I'm studying Statistics at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh. From the last year, I found myself learning skills for the data science industry. I listen to songs and play online games. 
@@ -86,3 +84,7 @@ Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 
  
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,03,23&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
+<be>
+<p align="left"> <a href="https://www.upwork.com/freelancers/~015518cd259be31f8a" target="blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" alt="Ashraful Islam Emon" /></a> </p>
+<be>
