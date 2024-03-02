@@ -14,7 +14,7 @@
 <img src="https://i.postimg.cc/XJGkZP6s/Analytics-amp-Data-Science.gif" width="350px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulemon&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulemon" /> </p>
-<p align="left"> <a href="https://twitter.com/Ashraful__Emon" target="blank"><img src="https://img.shields.io/twitter/follow/Ashraful__Emon?logo=twitter&style=for-the-badge" alt="Ashraful__Emon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ashraful___Emon" target="blank"><img src="https://img.shields.io/twitter/follow/Ashraful___Emon?logo=twitter&style=for-the-badge" alt="Ashraful___Emon" /></a> </p>
 <be>
 <p align="left"> <a href="https://www.upwork.com/freelancers/~015518cd259be31f8a" target="blank"> <img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/606710a582de651f75b268f4_Upwork.svg" alt="Ashraful Islam Emon" /></a> </p>
 <be>
@@ -44,7 +44,7 @@ Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 
 <div align="center">
  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ashrafulemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashrafulislamemon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/witter.com/Ashraful__Emon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16011054/ashraful-islam-emon)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ashrafulemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashrafulislamemon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/witter.com/Ashraful___Emon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16011054/ashraful-islam-emon)  
  
 </div>
 
