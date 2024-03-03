@@ -12,12 +12,16 @@
 
 
 <img src="https://i.postimg.cc/XJGkZP6s/Analytics-amp-Data-Science.gif" width="350px" align="right">
+</be>
+<be>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulemon&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulemon" /> </p>
 <p align="left"> <a href="https://twitter.com/Ashraful___Emon" target="blank"><img src="https://img.shields.io/twitter/follow/Ashraful___Emon?logo=twitter&style=for-the-badge" alt="Ashraful___Emon" /></a> </p>
+</be>
 <be>
 <p align="left"> <a href="https://www.upwork.com/freelancers/~015518cd259be31f8a" target="blank"> <img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/606710a582de651f75b268f4_Upwork.svg" alt="Ashraful Islam Emon" /></a> </p>
-<be>
+</be>
+<be><p>........................</p>.....................................................................</be>
 
 
 ## 🚀 About Me
@@ -55,15 +59,7 @@ Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 </div>
 
 
- <br>
-<div align="center">
-<img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/color/48/null/numpy.png"/> <img src="https://img.icons8.com/color/48/null/pandas.png"/> <img src="https://img.icons8.com/color/48/null/selenium-test-automation.png"/>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> </a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </a> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> <img src="https://img.icons8.com/color/48/null/power-bi.png"/><img src="https://img.icons8.com/color/48/null/ms-excel.png"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets.png" alt="google-sheets"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/>
-</div>
-<br>
+
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafulemon&theme=github_dark">
@@ -80,6 +76,16 @@ Skills: Python, C, R, SQL, Excel, Tableau, SPSS
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulemon&" alt="ashrafulemon" /></p>
 
 </div>
+ <br>
+<div align="center">
+<img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/color/48/null/numpy.png"/> <img src="https://img.icons8.com/color/48/null/pandas.png"/> <img src="https://img.icons8.com/color/48/null/selenium-test-automation.png"/>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </a> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> <img src="https://img.icons8.com/color/48/null/power-bi.png"/><img src="https://img.icons8.com/color/48/null/ms-excel.png"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets.png" alt="google-sheets"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/>
+</div>
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafulemon" alt="ashrafulemon" /></a> </p>
 
  
